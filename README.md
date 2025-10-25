@@ -8,7 +8,7 @@ En grundläggande JavaScript-uppgift där du bygger en enkel counter. Uppgiften 
 - Hindra att värdet går under 0 (eller sätt en valfri min-/maxgräns).
 
 
-
+## Notis från utföraren Anna Groshkova
 Förutom functionalitet har jag tagit mig frihet att göra några få ändringar i styles och html:
 
 - minskade font-size en aning på knapparna;
